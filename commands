@@ -1,0 +1,1 @@
+egrep -roh '<[^<>]*\s*xlink:href\s?=\s?"[^#[:space:]][^<[:space:]]*"[^<]*>' w3c_test/W3C_SVG_11_FullTestSuite w3c_test/W3C_SVG_11_TestSuite w3c_test/W3C_SVG_12_TinyTestSuite 
