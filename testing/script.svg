@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
-<script type="text/ecmascript" xlink:href="../resources/testharness.js"/>
-<script type="text/ecmascript" xlink:href="../resources/testharness.js">
-<script xlink:href="../images/externalscript.js">
-<script xlink:href="../images/TraitAccess.common.es" type="text/ecmascript" />
-<script xml:id="s1" xlink:href="../images/script1.js"/>
-<script xml:id="s2" xlink:href="../images/script3.js">
-</svg>
