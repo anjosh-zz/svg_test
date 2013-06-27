@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
 <a fill="blue" xlink:href="http://www.w3.org/Icons/w3c_home" >
-<a fill="blue" xlink:href="http://www.w3.org/Icons/w3c_home">
-<a id="a1" xlink:href="http://www.example.org/fail">
-<a id="img1" xlink:href="xlink1.svg">
-<a xlink:href="../../svg/animate-dom-01-f.svg">
-<a xlink:href="../../svg/animate-dom-02-f.svg">
-<a xlink:href="../../svg/animate-elem-02-t.svg">
-<a xlink:href="../../svg/animate-elem-03-t.svg">
-<a xlink:href="../../svg/animate-elem-04-t.svg">
-<a xlink:href="../../svg/animate-elem-05-t.svg">
+<a xlink:href="../images/interact-order-02-b-targ.svg">
+<a xlink:href="../images/interact-order-03-b-targ.svg" font-size="40">
+<a xlink:href="../images/linkingCircle-f.svg#circle-2">
+<a xlink:href="../images/linkingCircle-f.svg#svgView(viewBox(64,227,72,72))">
+<a xlink:href="../images/linkingCircle-f.svg#xpointer(id('circle-2'))">
+<a xlink:href="../images/linkingToc-t.svg" target="foo">
+<a xlink:href="../images/linkingToc-t.svg" transform="rotate(20,225,65)">
+<a xlink:href="../images/linkingToc-t.svg" xlink:show="new" target="foo">
+<a xlink:href="../images/linkingToc-t.svg" xlink:show="new">
 </svg>

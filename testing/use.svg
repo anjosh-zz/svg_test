@@ -1,12 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use focusable="true" visibility="hidden" xlink:href="../images/focus-resource.svg#poem-w-rect" x="120" y="140">
-<use focusable="true" visibility="hidden" xlink:href="../images/focus-resource.svg#poem-w-rect" x="20" y="75">
-<use focusable="true" visibility="hidden" xlink:href="../images/focus-resource.svg#poem-w-rect" x="220" y="205">
-<use id="use" x="0" y="0" width="225" height="225" xlink:href="../svg/struct-use-08-b.svg#svg-root"/>
-<use id="use" x="0" y="0" width="225" height="225" xlink:href="../svg/struct-use-08-t.svg#svg-root"/>
-<use id="use-elm-1" width="120" height="120" xlink:href="../images/struct-use-08-b-cycles.svg#svg-root"/>
-<use id="use-elm1" x="40" y="120" width="122" height="122" xlink:href="../images/struct-use-06-b-1.svg#rect1"/>
-<use id="use-elm-2" width="120" height="120" xlink:href="../images/struct-use-08-b-cycles.svg#image"/>
-<use id="use-elm2" x="180" y="120" width="122" height="122" xlink:href="../images/struct-use-06-b-1.svg#svg-root"/>
-<use x="0" y="0" xlink:href="url(#testLinear)" />
+<use xlink:href="../images/svgRef1.svg#rect1" fill="url(#linearGrad1)"/>
+<use xlink:href="../images/svgRef1.svg#rect2" fill="currentColor"/>
+<use xlink:href="../images/svgRef1.svg#rect3"/>
+<use xlink:href="../images/svgRef1.svg#rect4"/>
+<use xlink:href="../images/svgRef4.svg#alpha"/>
+<use xlink:href="../images/svgRef4.svg#beta"/>
+<use xlink:href="../images/svgRef4.svg#delta"/>
+<use xlink:href="../images/svgRef4.svg#gamma"/>
+<use xlink:href="../images/svgRef4.svg#testContent" x="-5" y="5" fill-opacity="0.5"/>
 </svg>
